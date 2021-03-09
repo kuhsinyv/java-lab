@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"cn.edu.ncu.guxinyu.chapter01","l":"HelloWorld"}];updateSearchResults();

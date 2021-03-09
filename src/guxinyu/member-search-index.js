@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"cn.edu.ncu.guxinyu.chapter01","c":"HelloWorld","l":"HelloWorld()","u":"%3Cinit%3E()"},{"p":"cn.edu.ncu.guxinyu.chapter01","c":"HelloWorld","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
